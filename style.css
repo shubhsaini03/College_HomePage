@@ -19,6 +19,7 @@
   }
   nav img {
     width: 170px;
+    margin-bottom: 15px;
   }
   .nav-links {
     flex: 1;
@@ -34,7 +35,7 @@
   .nav-links ul li a {
     color: #fff;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 10px;
   }
   .nav-links ul li::after {
     content: "";
@@ -58,7 +59,7 @@
     transform: translate(-50%, -50%);
   }
   .text-box h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
   .text-box p {
     margin: 10px 0 40px;
